@@ -17,13 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Database: `code_camp_bd_fos`
---
 
--- --------------------------------------------------------
-
---
 -- Table structure for table `admin`
 --
 
