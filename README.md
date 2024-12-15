@@ -1,0 +1,1 @@
+The Food Ordering System is a web-based application designed to streamline the process of ordering food from restaurants. Built using HTML, CSS, JavaScript, PHP, and MySQL, this system allows users to browse menus, place orders, and manage their accounts, while providing administrators and restaurant owners with tools to manage menu items, orders, and customer information.
